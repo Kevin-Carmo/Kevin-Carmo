@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Kevin Carmo!
 
 ## Sobre Mim
-🎓 Formado em **Ciências da Computação** pela Estácio de Sá.
+🎓 Formando em **Ciências da Computação** pela Estácio de Sá.
 
 ### 🌐 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kevin-carmo-811aa8204/)
